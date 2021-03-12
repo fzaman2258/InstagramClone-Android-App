@@ -39,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- My camera app kept crashing when trying to open and take a picture, and took a long time to figure out how to do it. I also spent a lot of time trying to find app id and client key as the videos are outdated and show heroku being used to deploy, when that isn't the case anymore.
 
 ## Open-source libraries used
 
